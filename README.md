@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Furkan Ayaz</h1>
 <h3 align="center">A passionate native mobile application developer from Türkiye</h3>
-<img align="right" alt="Coding" width="200" src="https://filozilla.com/for_me/coding.gif">
+<img align="right" alt="Coding" width="150" src="https://filozilla.com/for_me/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanayaz&label=Profile%20views&color=0e75b6&style=flat" alt="furkanayaz" /> </p>
 
