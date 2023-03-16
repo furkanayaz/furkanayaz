@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Furkan Ayaz</h1>
+<h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">A passionate native mobile application developer from Türkiye</h3>
 <img align="right" alt="Coding" width="150" src="https://filozilla.com/for_me/coding.gif">
 
