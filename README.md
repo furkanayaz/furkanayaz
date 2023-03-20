@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=furkanayaz&label=Profile%20views&color=0e75b6&style=flat" alt="furkanayaz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=furkanayaz" alt="furkanayaz" /></a> </p>
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=furkanayaz" alt="furkanayaz" /></a> </p>
 
 - 🔭 I’m currently working on [Filozilla](https://medium.com/@furkanayaz.dev/filozilla-hakkında-58092b80e5a2)
 
