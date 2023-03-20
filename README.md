@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Furkan</h1>
+<audio controls autoplay>
+  <source src="https://filozilla.com/for_me/Unknown%20Brain%20x%20Rival%20-%20Control%20%28ft.%20Jex%29%20%5BLyric%20Video%5D.mp3" type="audio/mpeg">
+</audio>
 <h3 align="center">A passionate native mobile application developer from Türkiye</h3>
 <img align="right" alt="Coding" width="150" src="https://filozilla.com/for_me/coding.gif">
 
