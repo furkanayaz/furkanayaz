@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Filozilla](https://medium.com/@furkanayaz.dev/filozilla-hakkında-58092b80e5a2)
 
-- 🌱 I’m currently learning **Swift UI, CSS, BootStrap**
+- 🌱 I’m currently learning **Swift UI**
 
 - 💬 Ask me about **Kotlin and Jetpack Compose**
 
