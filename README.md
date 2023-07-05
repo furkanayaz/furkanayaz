@@ -6,7 +6,7 @@
 
 <p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=furkanayaz" alt="furkanayaz" /></a> </p>
 
-- 🔭 Kotlin Developer at [Arvato]("https://arvato-supply-chain.com.tr/")
+- 🔭 Kotlin Developer at [Arvato](https://arvato-supply-chain.com.tr/)
 
 - 🌱 I’m currently learning **Swift UI**
 
