@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Swift UI**
 
-- 💬 Ask me about **Kotlin and Jetpack Compose**
+- 💬 Ask me about **Kotlin, KMM and Jetpack Compose**
 
 - 📫 How to reach me **furkanayaz.dev@gmail.com**
 
