@@ -8,7 +8,7 @@
 
 - 🔭 Kotlin Developer at [Arvato](https://arvato-supply-chain.com.tr/)
 
-- 🌱 I’m currently learning **Swift UI**
+- 🌱 I’m currently learning **Swift, Swift UI**
 
 - 💬 Ask me about **Kotlin, KMM and Jetpack Compose**
 
